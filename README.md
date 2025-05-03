@@ -1,6 +1,6 @@
-# 💻 Exca Developer
+# 💻Hi There This is Exca Developer!!!
 
-**`Software Engineer: Turning Coffee into Code ☕`**
+**`Software Engineer: Turning Chai into Code ☕`**
 
 ---
 
@@ -9,9 +9,9 @@
 I'm a passionate software engineer who loves solving complex problems and building impactful solutions. With a focus on clean code and efficient systems, I thrive in transforming ideas into reality through technology. Whether it's backend magic, frontend finesse, or diving into DevOps, I enjoy every layer of the development lifecycle.
 
 - 🔭 **Currently working on:** Building scalable microservices and exploring AI/ML integrations.
-- 🌱 **Learning:** Rust 🦀 & Kubernetes ☸️ | Always sharpening my system design skills.
+- 🌱 **Learning:** Python 🐍 & NeoVim ☸️ | Always sharpening my system design skills.
 - 💬 **Ask me about:** API design, cloud architecture, or why `NaN !== NaN` in JavaScript.
-- ⚡ **Fun fact:** I once fixed a critical production bug in my pajamas at 2 AM.
+- ⚡ **Fun fact:** I once fixed a critical production bug in my pajamas at 2 AM, fun fact? im always wearin pajamas.
 
 ---
 
