@@ -49,14 +49,14 @@ I'm a passionate software engineer who loves solving complex problems and buildi
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ExcaDev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=ko-fi&logoColor=white)](https://exca.dev)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://blog.exca.dev)
-📧 **Email:** dev.exca@proton.me
+📧 **Email:** hyukaruu@icloud.com
 
 ---
 
 ### 💡 Favorite Quote
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-> – *Martin Fowler*
+> "Il faut vivre comme on pense, sinon on finit par penser comme on vit"  
+> – *Maurice Blondel*
 
 ---
 
