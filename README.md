@@ -34,11 +34,11 @@ I'm a passionate software engineer who loves solving complex problems and buildi
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Exca-Developer&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ExcaLord&theme=dark)](https://git.io/streak-stats)
 
-![Exca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exca-Developer&show_icons=true&theme=radical)
+![Exca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExcaLord&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exca-Developer&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcaLord&layout=compact&theme=vision-friendly-dark)
 
 ---
 
