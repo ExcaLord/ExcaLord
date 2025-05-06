@@ -1,5 +1,7 @@
 # 💻 Hi There is Exca Developer!!!
-### Still under construction this is just a template created by DeepSeek R1 and search active
+---
+![Background png](https://github.com/user-attachments/assets/fe56e93b-0b09-418f-b379-3700e8209937)
+---
 **`Software Engineer: Turning Chai into Code ☕`**
 
 ---
