@@ -2,7 +2,7 @@
 ---
 ![Background png](https://github.com/user-attachments/assets/fe56e93b-0b09-418f-b379-3700e8209937)
 ---
-**`Software Engineer: Turning Chai into Code ☕`**
+**`Software Engineer: Turning Chai into Code 🍵`**
 
 ---
 
