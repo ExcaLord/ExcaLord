@@ -1,6 +1,8 @@
 # 💻 Hi There is Exca Developer!!!
 ---
-![Background png](https://github.com/user-attachments/assets/fe56e93b-0b09-418f-b379-3700e8209937)
+
+![banner for github](https://github.com/user-attachments/assets/5c1862a1-5a58-4e92-8514-bef679349638)
+
 ---
 **`Software Engineer: Turning Chai into Code 🍵`**
 
